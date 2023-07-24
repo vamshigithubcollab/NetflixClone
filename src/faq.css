@@ -1,0 +1,41 @@
+/* FaqComponent.css */
+
+.faq-section {
+    width: 100%;
+    max-width: 600px;
+    margin:5%;
+
+  }
+  
+  .faq-question {
+    border: 1px solid #ccc;
+    margin-bottom: 10px;
+    padding: 15px;
+    background-color: black; /* Grey background */
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .faq-answer {
+    padding: 10px;
+    
+  }
+  
+  .faq-answer p {
+    margin: 0;
+    color:white;
+  }
+  
+  .faq-question h3 {
+    margin: 0;
+    font-size: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white; /* Black text color */
+  }
+  .header-faq
+  {
+    color:white;
+  }
+  
